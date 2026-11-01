@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" fill="none">
+  <title>Summit Connect</title>
+  <rect width="512" height="512" rx="112" fill="#087F69"/>
+  <path d="M105 347L218 161C226 148 245 148 253 161L366 347H105Z" fill="#FFFFFF"/>
+  <path d="M278 347L335 251C342 239 359 239 366 251L423 347H278Z" fill="#BFE3CA"/>
+  <path d="M182 221L218 161C226 148 245 148 253 161L289 221L259 212L237 231L213 212L182 221Z" fill="#C5E6D7"/>
+</svg>
