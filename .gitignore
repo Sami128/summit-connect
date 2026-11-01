@@ -1,0 +1,22 @@
+# Private configuration and credentials
+**/.env*
+!**/.env.example
+**/.dev.vars*
+**/*.pem
+**/*.key
+
+# Local data, dependencies, generated files, and tool state
+**/node_modules/
+**/.next/
+**/dist/
+**/.data/
+**/.wrangler/
+**/.sites-runtime/
+**/.vinext/
+**/out/
+**/*.tsbuildinfo
+**/next-env.d.ts
+**/coverage/
+**/playwright-report/
+**/test-results/
+**/.DS_Store
